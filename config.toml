@@ -1,0 +1,14 @@
+baseURL = "https://ireland.helpso.me/"
+# languageCode = "ru-ru"
+languageCode = "en-us"
+title = "FAQ"
+theme = "kraiklyn"
+pluralizelisttitles = "false"
+
+copyright = "CC BY-SA"
+metaDataFormat = "yaml"
+
+[params]
+externalTitle = ""
+sidebarColor = "default"
+customCss = []
