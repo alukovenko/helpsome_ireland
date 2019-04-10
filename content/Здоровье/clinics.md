@@ -4,5 +4,6 @@ anchor: "clinics"
 draft: false
 ---
 
-<http://sandyfordhealthcare.ie> Новая клиника, русскоязычный персонал
-<https://www.myadvancedtherapy.com/> Косметолог Марина
+[Новая клиника в Sandyford](http://sandyfordhealthcare.ie), русскоязычный персонал
+
+[Косметолог Марина](https://www.myadvancedtherapy.com/), также разговаривает по-русски
