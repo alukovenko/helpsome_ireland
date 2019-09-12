@@ -5,6 +5,7 @@ draft: false
 ---
 
 Номера на 1890, 1850, 0818 платные. У многих из них есть бесплатные аналоги: <http://www.saynoto1890.com/>
+[Скорости мобильных операторов] (https://www.speedtest.net/reports/ireland/#mobile)
 
 ### Мобильные операторы
 *  [Vodafone] (https://n.vodafone.ie/shop/pay-as-you-go-plans.html#) (6GB, 100 min/text)  —  €20
