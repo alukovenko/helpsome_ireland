@@ -6,10 +6,14 @@ draft: false
 
 Мониторинг IRP (GNIB) / INIS appointment dates:
 
-* [Telegram бот](https://t.me/inis_appointments)
-* @GNIBot
-* https://github.com/otherness/gnib-telegram-bot
+Приложения под Android
+* [GNIB PRO](https://play.google.com/store/apps/details?id=com.stormra.gnib)
+* [My Appointment Register](https://play.google.com/store/apps/details?id=ie.my353.myapplication)
 
+Приложения под Apple
+* [GNIB PRO](https://apps.apple.com/ie/app/gnib-pro/id1492466924)
+
+Стоимость IRP - 300 евро. Обычно принимают карту, но бесконтактную оплату использовать нельзя. Берите с собой пластик.
 
 Нидерланды:
 
