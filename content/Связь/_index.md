@@ -16,3 +16,5 @@ draft: false
 ### Виртуальные
 *  [Tesco mobile] (http://www.tescomobile.ie/sim-only-plans.aspx) (виртуальный, на сетях Three) (10GB)  —  €15
 *  [Virgin media] (https://www.virginmedia.ie/mobile/sim-details/Virgin-Mobile/Unlimited/) (виртуальный, на сетях Three) (30GB, 4G)  —  €25
+*  [GoMo] (https://gomo.ie) (виртуальный, на сетях Eir) (10GB, 4G)  —  €12.99
+*  [48.ie] (https://48.ie) (виртуальный, на сетях Three) (100GB, 4G)  —  €7.99
