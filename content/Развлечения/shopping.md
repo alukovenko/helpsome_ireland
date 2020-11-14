@@ -5,6 +5,7 @@ draft: false
 ---
 
 Русские (совковые) товары и продукты:
+
 * [Maxela](http://maxela.org)
 * [Goltfood](https://www.facebook.com/Goltfood-100199996817675/)
 * [Moldova](http://moldovastore.ie/locations)
