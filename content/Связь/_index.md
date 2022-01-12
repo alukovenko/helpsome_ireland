@@ -4,7 +4,10 @@ anchor: "communication"
 draft: false
 ---
 
-Номера на 1890, 1850, 0818 платные. У многих из них есть бесплатные аналоги: <http://www.saynoto1890.com/>
+~~Номера на 1890, 1850, 0818 платные. У многих из них есть бесплатные аналоги:~~
+
+Больше не актуально с 1 декабря 2019 года - http://www.saynoto1890.com/2020/04/you-dont-need-to-use-this-website-any-more/
+
 [Скорости мобильных операторов] (https://www.speedtest.net/reports/ireland/#mobile)
 
 ### Мобильные операторы
@@ -16,5 +19,5 @@ draft: false
 ### Виртуальные
 *  [Tesco mobile] (http://www.tescomobile.ie/sim-only-plans.aspx) (виртуальный, на сетях Three) (10GB)  —  €15
 *  [Virgin media] (https://www.virginmedia.ie/mobile/sim-details/Virgin-Mobile/Unlimited/) (виртуальный, на сетях Three) (30GB, 4G)  —  €25
-*  [GoMo] (https://gomo.ie) (виртуальный, на сетях Eir) (10GB, 4G)  —  €12.99
-*  [48.ie] (https://48.ie) (виртуальный, на сетях Three) (100GB, 4G)  —  €7.99
+*  [GoMo] (https://gomo.ie) (виртуальный, на сетях Eir) (10GB, 4G)  —  €14.99
+*  [48.ie] (https://48.ie) (виртуальный, на сетях Three) (100GB, 4G)  —  €10.99
