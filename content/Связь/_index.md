@@ -4,7 +4,7 @@ anchor: "communication"
 draft: false
 ---
 
-[Скорости мобильных операторов] (https://www.speedtest.net/reports/ireland/#mobile)
+[Скорости мобильных операторов](https://www.speedtest.net/reports/ireland/#mobile)
 
 ### Мобильные операторы
 *  [Vodafone](https://n.vodafone.ie/shop/pay-as-you-go-plans.html#) (6GB, 100 min/text)  —  €20
