@@ -10,7 +10,7 @@ draft: false
 
 - Разрешение на работу: Critical Skills Employment Permit (CSEP) / Work Permit (WP). Дает право работать на местную компанию.
 - Разрешение на пребывание: раньше называлось GNIB, с 1.1.2018 - IRP (Irish Residence Permit). Дает право находиться (а с 13.05.2019 и въезжать) в Ирландию. Выдается только совершеннолетним.
-- Разрешение на въезд: entry visa или re-entry visa. [Начиная с 13.05.2019 взрослым re-entry не требуется, а детям re-entry выдается бесплатно](http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas)
+- Разрешение на въезд: entry visa или re-entry visa. Начиная с [13.05.2019](http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas) взрослым re-entry не требуется, а ~~детям re-entry выдается бесплатно~~ с июня 2022 года требование re-entry для несовершеннолетних [заменено](https://www.irishimmigration.ie/suspension-of-re-entry-visa-requirements-for-children-under-the-age-of-16-years/) на требования для сопровождающих.
 
 Для въезда в страну нужно предъявить IRP и паспорт со штампом IRP (взрослым), либо паспорт со штампом re-entry (детям).
 
