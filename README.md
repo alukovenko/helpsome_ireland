@@ -6,7 +6,7 @@ REQUIREMENTS
 * hugo >= 0.55
 * Themes
     ```bash
-    git clone https://github.com/alukovenko/kraiklyn.git themes/
+    git clone https://github.com/alukovenko/kraiklyn.git themes/kraiklyn
     ```
 
 # local development
