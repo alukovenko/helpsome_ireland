@@ -4,6 +4,7 @@ anchor: "communication"
 draft: false
 ---
 
+[Карта покрытия разных мобильных операторов](https://coveragemap.comreg.ie/map)
 [Скорости мобильных операторов](https://www.speedtest.net/reports/ireland/#mobile)
 
 ### Мобильные операторы
