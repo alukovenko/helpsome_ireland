@@ -1,0 +1,191 @@
+backend:
+  name: github
+  repo: alukovenko/helpsome_ireland
+  branch: master
+
+media_folder: "static/images"
+public_folder: "/images"
+media_library:
+  name: "uploadcare"
+
+collections:
+  - name: "content"
+    label: "Content"
+    folder: "content/Contribute"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "disclaimer"
+    label: "Disclaimer"
+    folder: "content/Disclaimer"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "виза"
+    label: "Виза"
+    folder: "content/Виза"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "деньги"
+    label: "Деньги"
+    folder: "content/Деньги"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "жилье"
+    label: "Жилье"
+    folder: "content/Жилье"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "здоровье"
+    label: "Здоровье"
+    folder: "content/Здоровье"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "консульство"
+    label: "Консульство"
+    folder: "content/Консульство"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "переезд"
+    label: "Переезд"
+    folder: "content/Переезд"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "почта"
+    label: "Почта"
+    folder: "content/Почта"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "работа"
+    label: "Работа"
+    folder: "content/Работа"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "развлечения"
+    label: "Развлечения"
+    folder: "content/Развлечения"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "рекомендации"
+    label: "Рекомендации"
+    folder: "content/Рекомендации"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "связь"
+    label: "Связь"
+    folder: "content/Связь"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "транспорт"
+    label: "Транспорт"
+    folder: "content/Транспорт"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "telegram"
+    label: "Телеграм"
+    folder: "content/telegram"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
