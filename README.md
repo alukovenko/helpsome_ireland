@@ -4,12 +4,9 @@ REQUIREMENTS
 ------------
 
 * hugo >= 0.55
-* Themes
-    ```bash
-    git clone https://github.com/alukovenko/kraiklyn.git themes/kraiklyn
-    ```
+* Clone using 'git clone --recurse-submodules https://github.com/alukovenko/helpsome_ireland/': expects submodule from https://github.com/alukovenko/kraiklyn.git in themes/kraiklyn. 
 
-# local development
+* local development
 ```bash
 brew install hugo
 hugo server
