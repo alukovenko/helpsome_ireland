@@ -2,6 +2,7 @@ backend:
   name: github
   repo: alukovenko/helpsome_ireland
   branch: master
+  base_url: https://auth.helpso.me
 
 media_folder: "static/images"
 public_folder: "/images"
