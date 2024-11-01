@@ -1,7 +1,7 @@
 ---
 title: Море, пляж
 anchor: beach
-weight: 4
+weight: 8
 date: 2024-11-01T21:43:00.000Z
 draft: false
 ---
