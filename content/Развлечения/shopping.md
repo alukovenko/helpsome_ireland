@@ -1,6 +1,8 @@
 ---
-title: "Покупки"
-anchor: "shopping"
+title: Покупки
+anchor: shopping
+weight: 5
+date: 2024-11-01T22:05:00.000Z
 draft: false
 ---
 
