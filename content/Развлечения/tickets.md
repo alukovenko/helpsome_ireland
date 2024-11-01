@@ -1,8 +1,9 @@
 ---
-title: "Билеты"
-anchor: "tickets"
+title: Билеты
+anchor: tickets
+weight: 4
 date: 2019-07-26T19:30:06+01:00
-draft: False
+draft: false
 ---
 
 Купить билеты на концерты:
