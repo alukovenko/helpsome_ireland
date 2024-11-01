@@ -1,10 +1,11 @@
 ---
-title: "Море, пляж"
-anchor: "beach"
+title: Море, пляж
+anchor: beach
+weight: 2
+date: 2024-11-01T21:43:00.000Z
 draft: false
 ---
-
-Куда сходить к морю с пляжем
+Куда сходить к морю с пляжем в окрестностях Дублина
 
 * [Dún Laoghaire](https://goo.gl/maps/ByW6bLv52SR2)
 * Howth (Хоут)
