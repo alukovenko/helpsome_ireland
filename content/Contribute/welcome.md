@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: _index.md
 anchor: welcome
 weight: 1
 date: 2024-12-01T19:36:00.000Z
