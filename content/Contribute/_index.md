@@ -1,7 +1,7 @@
 ---
 title: Дополнить FAQ
 anchor: contribute
-weight: 2
+weight: 3
 date: 2024-11-01T22:04:00.000Z
 draft: false
 ---

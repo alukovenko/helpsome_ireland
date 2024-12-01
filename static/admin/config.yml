@@ -10,9 +10,9 @@ media_library:
   name: "uploadcare"
 
 collections:
-  - name: "content"
-    label: "Content"
-    folder: "content/Contribute"
+  - name: "disclaimer"
+    label: "Disclaimer"
+    folder: "content/Disclaimer"
     create: true
     slug: "{{slug}}"
     fields:
@@ -22,9 +22,21 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "disclaimer"
-    label: "Disclaimer"
-    folder: "content/Disclaimer"
+  - name: "welcome"
+    label: "Welcome"
+    folder: "content/Welcome"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "content"
+    label: "Content"
+    folder: "content/Contribute"
     create: true
     slug: "{{slug}}"
     fields:
