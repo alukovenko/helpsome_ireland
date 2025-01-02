@@ -202,3 +202,27 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "telegram-chats"
+    label: "Список тематических чатов"
+    folder: "content/telegram-chats"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "events"
+    label: "События"
+    folder: "content/events"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Anchor", name: "anchor", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Body", name: "body", widget: "markdown" }
