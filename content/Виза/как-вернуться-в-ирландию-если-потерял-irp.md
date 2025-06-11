@@ -1,7 +1,7 @@
 ---
 title: Как вернуться в Ирландию, если потерял IRP
 anchor: IRP-lost-or-stolen
-weight: 1
+weight: 3
 date: 2025-06-10T23:18:00.000Z
 draft: "false"
 ---
