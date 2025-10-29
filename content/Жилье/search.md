@@ -2,7 +2,7 @@
 title: Поиск жилья
 anchor: house_search
 weight: 10
-date: 2025-10-29T16:10:00.000+00:00
+date: 2025-10-29T16:13:00.000+00:00
 draft: false
 ---
 
@@ -24,12 +24,12 @@ https://www.daft.ie/
 Многие lanlordы не выкладывают объявления на daft.ie, а только в facebook (в основном аренда комнат)
 Например:
 Dublin:
-https://m.facebook.com/groups/258883527594842/
-https://m.facebook.com/groups/277024535766729/
-https://m.facebook.com/groups/257132118028471/
-https://m.facebook.com/groups/1607597689487462/
-https://m.facebook.com/groups/1459037897697419/
-https://m.facebook.com/groups/508858483196163/
+* https://m.facebook.com/groups/258883527594842/
+* https://m.facebook.com/groups/277024535766729/
+* https://m.facebook.com/groups/257132118028471/
+* https://m.facebook.com/groups/1607597689487462/
+* https://m.facebook.com/groups/1459037897697419/
+* https://m.facebook.com/groups/508858483196163/
 
 Wicklow:
-https://www.facebook.com/wicklowhousing
+* https://www.facebook.com/wicklowhousing
