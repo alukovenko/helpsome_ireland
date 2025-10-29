@@ -1,21 +1,22 @@
 ---
-title: "Поиск жилья"
-anchor: "house_search"
-draft: false
+title: Поиск жилья
+anchor: house_search
 weight: 10
+date: 2025-10-29T16:10:00.000+00:00
+draft: false
 ---
 
 Основной сайт (больше всего предложений):
 https://www.daft.ie/
 
 Также:
-https://www.myhome.ie/
-https://www.rent.ie/
-https://www.property.ie/
+* https://www.myhome.ie/
+* https://www.rent.ie/
+* https://www.property.ie/
 
+[Карта уровня благополучия районов от Pobal](https://data.pobal.ie/portal/apps/sites/#/pobal-maps)
 
-Карта уровня благополучия районов:
-https://www.rte.ie/deprivation/
+[Самая свежая карта Pobal за 2022 год](https://data.pobal.ie/portal/apps/experiencebuilder/experience/?id=3b0acba7eb694ffa85340a60f81d516c)
 
 Требуется быстро откликаться на новые объявления (в 1-е минуты), настраивать оповещения о новых объявлениях.
 
