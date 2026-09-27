@@ -1,6 +1,7 @@
 ---
 title: "Работа"
 anchor: "jobs"
+weight: 16
 draft: false
 ---
 
